@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Sallehhuddin! 👋
 
-<!--
-**Sallehhuddin95/Sallehhuddin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about Software Development and Data Analysis.
 
-Here are some ideas to get you started:
+## 🚀 My Stacks
+### Frontend:
+- React.js
+- jQuery
+- Boostrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend:
+- Node.js
+- Express.js
+- Django
+- MongoDB
+- PostgreSQL
+- SQL Server
+
+### Others:
+- React Native
+- PowerBI
+- Azure DevOps
+
+## 📫 Get in Touch
+- LinkedIn: https://www.linkedin.com/in/sallehhuddin/
+
+
+
