@@ -7,6 +7,7 @@ I'm a Software Engineer passionate about Software Development and Data Analysis.
 - React.js
 - jQuery
 - Boostrap
+- Tailwind CSS
 
 ### Backend:
 - Node.js
