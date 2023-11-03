@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about Software Development and Data Analysis.
 ### Frontend:
 - React.js
 - jQuery
-- Boostrap
+- Bootstrap
 - Tailwind CSS
 
 ### Backend:
