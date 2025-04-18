@@ -5,9 +5,11 @@ I'm a Software Engineer passionate about Software Development and Data Analysis.
 ## 🚀 My Stacks
 ### Frontend:
 - React.js
+- Next.js
 - jQuery
 - Bootstrap
 - Tailwind CSS
+- RTK
 
 ### Backend:
 - Node.js
@@ -16,11 +18,11 @@ I'm a Software Engineer passionate about Software Development and Data Analysis.
 - MongoDB
 - PostgreSQL
 - SQL Server
+- Prisma
 
 ### Others:
 - React Native
 - PowerBI
-- Azure DevOps
 
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/sallehhuddin/
