@@ -26,6 +26,7 @@ I'm a Software Engineer passionate about Software Development and Data Analysis.
 
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/sallehhuddin/
+- Personal Portfolio: https://sallehhuddin.netlify.app/
 
 
 
